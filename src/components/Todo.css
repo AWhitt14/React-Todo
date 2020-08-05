@@ -1,0 +1,9 @@
+.item {
+    background-color: greenyellow;
+    width: 45%;
+    cursor: pointer;
+  }
+
+  .item .completed {
+      background-color: green;
+  }
